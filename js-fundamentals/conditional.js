@@ -1,8 +1,8 @@
 var isFoodReady = true;
 
-if (isFoodReady == true) {
-    console.log('mama!!i will eat now');
-}
+// if (isFoodReady == true) {
+//     console.log('mama!!i will eat now');
+// }
 
 var iphonePrice = 70000;
 var mybudget = 109500;

@@ -13,3 +13,6 @@ var lastItem = friendsAge.pop();
 // friendsAge.pop();
 console.log(friendsAge);
 console.log(lastItem);
+
+
+
